@@ -1,0 +1,775 @@
+{
+  "styles": {
+    "flag": {
+      "display": "inline-block",
+      "width": "16px",
+      "height": "11px",
+      "background": "url('../misc/flags.png') no-repeat"
+    },
+    "flag_flag_sa": {
+      "background-position": "-128px -121px"
+    },
+    "flag_flag_no": {
+      "background-position": "-256px -99px"
+    },
+    "flag_flag_sg": {
+      "background-position": "-224px -121px"
+    },
+    "flag_flag_td": {
+      "background-position": "-240px -132px"
+    },
+    "flag_flag_kw": {
+      "background-position": "-112px -77px"
+    },
+    "flag_flag_ne": {
+      "background-position": "-176px -99px"
+    },
+    "flag_flag_sm": {
+      "background-position": "-48px -132px"
+    },
+    "flag_flag_england": {
+      "background-position": "-192px -33px"
+    },
+    "flag_flag_cl": {
+      "background-position": "-144px -22px"
+    },
+    "flag_flag_gu": {
+      "background-position": "-96px -55px"
+    },
+    "flag_flag_va": {
+      "background-position": "-48px -154px"
+    },
+    "flag_flag_id": {
+      "background-position": "-256px -55px"
+    },
+    "flag_flag_bv": {
+      "background-position": "-224px -11px"
+    },
+    "flag_flag_la": {
+      "background-position": "-160px -77px"
+    },
+    "flag_flag_tibet": {
+      "background-position": "-32px -143px"
+    },
+    "flag_flag_gr": {
+      "background-position": "-48px -55px"
+    },
+    "flag_flag_tv": {
+      "background-position": "-176px -143px"
+    },
+    "flag_flag_ps": {
+      "background-position": "-240px -110px"
+    },
+    "flag_flag_kh": {
+      "background-position": "0 -77px"
+    },
+    "flag_flag_st": {
+      "background-position": "-144px -132px"
+    },
+    "flag_flag_ic": {
+      "background-position": "-240px -55px"
+    },
+    "flag_flag_gi": {
+      "background-position": "-224px -44px"
+    },
+    "flag_flag_sb": {
+      "background-position": "-144px -121px"
+    },
+    "flag_flag_sz": {
+      "background-position": "-208px -132px"
+    },
+    "flag_flag_il": {
+      "background-position": "-16px -66px"
+    },
+    "flag_flag_re": {
+      "background-position": "-48px -121px"
+    },
+    "flag_flag_md": {
+      "background-position": "-96px -88px"
+    },
+    "flag_flag_bi": {
+      "background-position": "-96px -11px"
+    },
+    "flag_flag_si": {
+      "background-position": "-256px -121px"
+    },
+    "flag_flag_ng": {
+      "background-position": "-208px -99px"
+    },
+    "flag_flag_eu": {
+      "background-position": "-256px -33px"
+    },
+    "flag_flag_ni": {
+      "background-position": "-224px -99px"
+    },
+    "flag_flag_er": {
+      "background-position": "-208px -33px"
+    },
+    "flag_flag_bd": {
+      "background-position": "-16px -11px"
+    },
+    "flag_flag_ci": {
+      "background-position": "-112px -22px"
+    },
+    "flag_flag_tl": {
+      "background-position": "-80px -143px"
+    },
+    "flag_flag_ug": {
+      "background-position": "-240px -143px"
+    },
+    "flag_flag_om": {
+      "background-position": "-64px -110px"
+    },
+    "flag_flag_mt": {
+      "background-position": "-32px -99px"
+    },
+    "flag_flag_tf": {
+      "background-position": "-256px -132px"
+    },
+    "flag_flag_gm": {
+      "background-position": "-256px -44px"
+    },
+    "flag_flag_in": {
+      "background-position": "-64px -66px"
+    },
+    "flag_flag_vi": {
+      "background-position": "-112px -154px"
+    },
+    "flag_flag_mr": {
+      "background-position": "0 -99px"
+    },
+    "flag_flag_uz": {
+      "background-position": "-32px -154px"
+    },
+    "flag_flag_zanzibar": {
+      "background-position": "0 -165px"
+    },
+    "flag_flag_cm": {
+      "background-position": "-160px -22px"
+    },
+    "flag_flag_bf": {
+      "background-position": "-48px -11px"
+    },
+    "flag_flag_je": {
+      "background-position": "-176px -66px"
+    },
+    "flag_flag_gq": {
+      "background-position": "-32px -55px"
+    },
+    "flag_flag_so": {
+      "background-position": "-80px -132px"
+    },
+    "flag_flag_me": {
+      "background-position": "-112px -88px"
+    },
+    "flag_flag_pk": {
+      "background-position": "-160px -110px"
+    },
+    "flag_flag_tw": {
+      "background-position": "-192px -143px"
+    },
+    "flag_flag_rs": {
+      "background-position": "-80px -121px"
+    },
+    "flag_flag_ht": {
+      "background-position": "-208px -55px"
+    },
+    "flag_flag_kr": {
+      "background-position": "-80px -77px"
+    },
+    "flag_flag_eg": {
+      "background-position": "-160px -33px"
+    },
+    "flag_flag_ax": {
+      "background-position": "-224px 0"
+    },
+    "flag_flag_cv": {
+      "background-position": "-240px -22px"
+    },
+    "flag_flag_nr": {
+      "background-position": "-16px -110px"
+    },
+    "flag_flag_cz": {
+      "background-position": "-16px -33px"
+    },
+    "flag_flag_pl": {
+      "background-position": "-176px -110px"
+    },
+    "flag_flag_pr": {
+      "background-position": "-224px -110px"
+    },
+    "flag_flag_ms": {
+      "background-position": "-16px -99px"
+    },
+    "flag_flag_eh": {
+      "background-position": "-176px -33px"
+    },
+    "flag_flag_at": {
+      "background-position": "-176px 0"
+    },
+    "flag_flag_gd": {
+      "background-position": "-128px -44px"
+    },
+    "flag_flag_bo": {
+      "background-position": "-160px -11px"
+    },
+    "flag_flag_ly": {
+      "background-position": "-48px -88px"
+    },
+    "flag_flag_ge": {
+      "background-position": "-144px -44px"
+    },
+    "flag_flag_pm": {
+      "background-position": "-192px -110px"
+    },
+    "flag_flag_bb": {
+      "background-position": "0 -11px"
+    },
+    "flag_flag_ir": {
+      "background-position": "-112px -66px"
+    },
+    "flag_flag_kn": {
+      "background-position": "-48px -77px"
+    },
+    "flag_flag_ec": {
+      "background-position": "-128px -33px"
+    },
+    "flag_flag_gf": {
+      "background-position": "-160px -44px"
+    },
+    "flag_flag_ar": {
+      "background-position": "-144px 0"
+    },
+    "flag_flag_vg": {
+      "background-position": "-96px -154px"
+    },
+    "flag_flag_hu": {
+      "background-position": "-224px -55px"
+    },
+    "flag_flag_sd": {
+      "background-position": "-192px -121px"
+    },
+    "flag_flag_sv": {
+      "background-position": "-160px -132px"
+    },
+    "flag_flag_wf": {
+      "background-position": "-176px -154px"
+    },
+    "flag_flag_tn": {
+      "background-position": "-112px -143px"
+    },
+    "flag_flag_kp": {
+      "background-position": "-64px -77px"
+    },
+    "flag_flag_it": {
+      "background-position": "-144px -66px"
+    },
+    "flag_flag_li": {
+      "background-position": "-208px -77px"
+    },
+    "flag_flag_lb": {
+      "background-position": "-176px -77px"
+    },
+    "flag_flag_ao": {
+      "background-position": "-128px 0"
+    },
+    "flag_flag_lu": {
+      "background-position": "-16px -88px"
+    },
+    "flag_flag_ke": {
+      "background-position": "-240px -66px"
+    },
+    "flag_flag_tt": {
+      "background-position": "-160px -143px"
+    },
+    "flag_flag_kz": {
+      "background-position": "-144px -77px"
+    },
+    "flag_flag_gg": {
+      "background-position": "-192px -44px"
+    },
+    "flag_flag_tk": {
+      "background-position": "-64px -143px"
+    },
+    "flag_flag_jm": {
+      "background-position": "-192px -66px"
+    },
+    "flag_flag_mo": {
+      "background-position": "-224px -88px"
+    },
+    "flag_flag_nz": {
+      "background-position": "-48px -110px"
+    },
+    "flag_flag_lk": {
+      "background-position": "-224px -77px"
+    },
+    "flag_flag_ae": {
+      "background-position": "-16px 0"
+    },
+    "flag_flag_wales": {
+      "background-position": "-160px -154px"
+    },
+    "flag_flag_sj": {
+      "background-position": "0 -132px"
+    },
+    "flag_flag_bm": {
+      "background-position": "-128px -11px"
+    },
+    "flag_flag_by": {
+      "background-position": "-256px -11px"
+    },
+    "flag_flag_sr": {
+      "background-position": "-112px -132px"
+    },
+    "flag_flag_dm": {
+      "background-position": "-80px -33px"
+    },
+    "flag_flag_nu": {
+      "background-position": "-32px -110px"
+    },
+    "flag_flag_kg": {
+      "background-position": "-256px -66px"
+    },
+    "flag_flag_uy": {
+      "background-position": "-16px -154px"
+    },
+    "flag_flag_cy": {
+      "background-position": "0 -33px"
+    },
+    "flag_flag_pt": {
+      "background-position": "-256px -110px"
+    },
+    "flag_flag_mg": {
+      "background-position": "-128px -88px"
+    },
+    "flag_flag_io": {
+      "background-position": "-80px -66px"
+    },
+    "flag_flag_sc": {
+      "background-position": "-160px -121px"
+    },
+    "flag_flag_mu": {
+      "background-position": "-48px -99px"
+    },
+    "flag_flag_ss": {
+      "background-position": "-128px -132px"
+    },
+    "flag_flag_sn": {
+      "background-position": "-64px -132px"
+    },
+    "flag_flag_hn": {
+      "background-position": "-176px -55px"
+    },
+    "flag_flag_tr": {
+      "background-position": "-144px -143px"
+    },
+    "flag_flag_ag": {
+      "background-position": "-48px 0"
+    },
+    "flag_flag_iq": {
+      "background-position": "-96px -66px"
+    },
+    "flag_flag_ye": {
+      "background-position": "-224px -154px"
+    },
+    "flag_flag_bh": {
+      "background-position": "-80px -11px"
+    },
+    "flag_flag_az": {
+      "background-position": "-240px 0"
+    },
+    "flag_flag_ro": {
+      "background-position": "-64px -121px"
+    },
+    "flag_flag_fm": {
+      "background-position": "-48px -44px"
+    },
+    "flag_flag_aw": {
+      "background-position": "-208px 0"
+    },
+    "flag_flag_my": {
+      "background-position": "-112px -99px"
+    },
+    "flag_flag_fr": {
+      "background-position": "-80px -44px"
+    },
+    "flag_flag_se": {
+      "background-position": "-208px -121px"
+    },
+    "flag_flag_mk": {
+      "background-position": "-160px -88px"
+    },
+    "flag_flag_cd": {
+      "background-position": "-48px -22px"
+    },
+    "flag_flag_mc": {
+      "background-position": "-80px -88px"
+    },
+    "flag_flag_lr": {
+      "background-position": "-240px -77px"
+    },
+    "flag_flag_fo": {
+      "background-position": "-64px -44px"
+    },
+    "flag_flag_mq": {
+      "background-position": "-256px -88px"
+    },
+    "flag_flag_to": {
+      "background-position": "-128px -143px"
+    },
+    "flag_flag_gy": {
+      "background-position": "-128px -55px"
+    },
+    "flag_flag_mv": {
+      "background-position": "-64px -99px"
+    },
+    "flag_flag_na": {
+      "background-position": "-144px -99px"
+    },
+    "flag_flag_tm": {
+      "background-position": "-96px -143px"
+    },
+    "flag_flag_as": {
+      "background-position": "-160px 0"
+    },
+    "flag_flag_us": {
+      "background-position": "0 -154px"
+    },
+    "flag_flag_pn": {
+      "background-position": "-208px -110px"
+    },
+    "flag_flag_fj": {
+      "background-position": "-16px -44px"
+    },
+    "flag_flag_ad": {
+      "background-position": "0 0"
+    },
+    "flag_flag_vc": {
+      "background-position": "-64px -154px"
+    },
+    "flag_flag_pw": {
+      "background-position": "0 -121px"
+    },
+    "flag_flag_np": {
+      "background-position": "0 -110px"
+    },
+    "flag_flag_bz": {
+      "background-position": "0 -22px"
+    },
+    "flag_flag_jp": {
+      "background-position": "-224px -66px"
+    },
+    "flag_flag_mm": {
+      "background-position": "-192px -88px"
+    },
+    "flag_flag_gp": {
+      "background-position": "-16px -55px"
+    },
+    "flag_flag_au": {
+      "background-position": "-192px 0"
+    },
+    "flag_flag_et": {
+      "background-position": "-240px -33px"
+    },
+    "flag_flag_th": {
+      "background-position": "-16px -143px"
+    },
+    "flag_flag_dz": {
+      "background-position": "-112px -33px"
+    },
+    "flag_flag_br": {
+      "background-position": "-176px -11px"
+    },
+    "flag_flag_catalonia": {
+      "background-position": "-32px -22px"
+    },
+    "flag_flag_ls": {
+      "background-position": "-256px -77px"
+    },
+    "flag_flag_zm": {
+      "background-position": "-16px -165px"
+    },
+    "flag_flag_xk": {
+      "background-position": "-208px -154px"
+    },
+    "flag_flag_py": {
+      "background-position": "-16px -121px"
+    },
+    "flag_flag_am": {
+      "background-position": "-96px 0"
+    },
+    "flag_flag_scotland": {
+      "background-position": "-176px -121px"
+    },
+    "flag_flag_ck": {
+      "background-position": "-128px -22px"
+    },
+    "flag_flag_sy": {
+      "background-position": "-192px -132px"
+    },
+    "flag_flag_hk": {
+      "background-position": "-144px -55px"
+    },
+    "flag_flag_bt": {
+      "background-position": "-208px -11px"
+    },
+    "flag_flag_sh": {
+      "background-position": "-240px -121px"
+    },
+    "flag_flag_cr": {
+      "background-position": "-208px -22px"
+    },
+    "flag_flag_gl": {
+      "background-position": "-240px -44px"
+    },
+    "flag_flag_lv": {
+      "background-position": "-32px -88px"
+    },
+    "flag_flag_sl": {
+      "background-position": "-32px -132px"
+    },
+    "flag_flag_rw": {
+      "background-position": "-112px -121px"
+    },
+    "flag_flag_mh": {
+      "background-position": "-144px -88px"
+    },
+    "flag_flag_vu": {
+      "background-position": "-144px -154px"
+    },
+    "flag_flag_ai": {
+      "background-position": "-64px 0"
+    },
+    "flag_flag_mz": {
+      "background-position": "-128px -99px"
+    },
+    "flag_flag_gh": {
+      "background-position": "-208px -44px"
+    },
+    "flag_flag_ie": {
+      "background-position": "0 -66px"
+    },
+    "flag_flag_vn": {
+      "background-position": "-128px -154px"
+    },
+    "flag_flag_co": {
+      "background-position": "-192px -22px"
+    },
+    "flag_flag_za": {
+      "background-position": "-256px -154px"
+    },
+    "flag_flag_lc": {
+      "background-position": "-192px -77px"
+    },
+    "flag_flag_mw": {
+      "background-position": "-80px -99px"
+    },
+    "flag_flag_yt": {
+      "background-position": "-240px -154px"
+    },
+    "flag_flag_tg": {
+      "background-position": "0 -143px"
+    },
+    "flag_flag_ml": {
+      "background-position": "-176px -88px"
+    },
+    "flag_flag_ua": {
+      "background-position": "-224px -143px"
+    },
+    "flag_flag_tc": {
+      "background-position": "-224px -132px"
+    },
+    "flag_flag_is": {
+      "background-position": "-128px -66px"
+    },
+    "flag_flag_dk": {
+      "background-position": "-64px -33px"
+    },
+    "flag_flag_bs": {
+      "background-position": "-192px -11px"
+    },
+    "flag_flag_qa": {
+      "background-position": "-32px -121px"
+    },
+    "flag_flag_gw": {
+      "background-position": "-112px -55px"
+    },
+    "flag_flag_nc": {
+      "background-position": "-160px -99px"
+    },
+    "flag_flag_gs": {
+      "background-position": "-64px -55px"
+    },
+    "flag_flag_nf": {
+      "background-position": "-192px -99px"
+    },
+    "flag_flag_be": {
+      "background-position": "-32px -11px"
+    },
+    "flag_flag_kurdistan": {
+      "background-position": "-96px -77px"
+    },
+    "flag_flag_km": {
+      "background-position": "-32px -77px"
+    },
+    "flag_flag_gt": {
+      "background-position": "-80px -55px"
+    },
+    "flag_flag_cf": {
+      "background-position": "-64px -22px"
+    },
+    "flag_flag_tj": {
+      "background-position": "-48px -143px"
+    },
+    "flag_flag_cu": {
+      "background-position": "-224px -22px"
+    },
+    "flag_flag_ga": {
+      "background-position": "-96px -44px"
+    },
+    "flag_flag_es": {
+      "background-position": "-224px -33px"
+    },
+    "flag_flag_cg": {
+      "background-position": "-80px -22px"
+    },
+    "flag_flag_ki": {
+      "background-position": "-16px -77px"
+    },
+    "flag_flag_fi": {
+      "background-position": "0 -44px"
+    },
+    "flag_flag_ca": {
+      "background-position": "-16px -22px"
+    },
+    "flag_flag_ru": {
+      "background-position": "-96px -121px"
+    },
+    "flag_flag_gb": {
+      "background-position": "-112px -44px"
+    },
+    "flag_flag_al": {
+      "background-position": "-80px 0"
+    },
+    "flag_flag_um": {
+      "background-position": "-256px -143px"
+    },
+    "flag_flag_bn": {
+      "background-position": "-144px -11px"
+    },
+    "flag_flag_cw": {
+      "background-position": "-256px -22px"
+    },
+    "flag_flag_ee": {
+      "background-position": "-144px -33px"
+    },
+    "flag_flag_cn": {
+      "background-position": "-176px -22px"
+    },
+    "flag_flag_hr": {
+      "background-position": "-192px -55px"
+    },
+    "flag_flag_ba": {
+      "background-position": "-256px 0"
+    },
+    "flag_flag_mx": {
+      "background-position": "-96px -99px"
+    },
+    "flag_flag_ky": {
+      "background-position": "-128px -77px"
+    },
+    "flag_flag_ve": {
+      "background-position": "-80px -154px"
+    },
+    "flag_flag_nl": {
+      "background-position": "-240px -99px"
+    },
+    "flag_flag_do": {
+      "background-position": "-96px -33px"
+    },
+    "flag_flag_pg": {
+      "background-position": "-128px -110px"
+    },
+    "flag_flag_bj": {
+      "background-position": "-112px -11px"
+    },
+    "flag_flag_dj": {
+      "background-position": "-48px -33px"
+    },
+    "flag_flag_bw": {
+      "background-position": "-240px -11px"
+    },
+    "flag_flag_ph": {
+      "background-position": "-144px -110px"
+    },
+    "flag_flag_zw": {
+      "background-position": "-32px -165px"
+    },
+    "flag_flag_im": {
+      "background-position": "-48px -66px"
+    },
+    "flag_flag_pa": {
+      "background-position": "-80px -110px"
+    },
+    "flag_flag_pe": {
+      "background-position": "-96px -110px"
+    },
+    "flag_flag_fk": {
+      "background-position": "-32px -44px"
+    },
+    "flag_flag_ch": {
+      "background-position": "-96px -22px"
+    },
+    "flag_flag_sx": {
+      "background-position": "-176px -132px"
+    },
+    "flag_flag_sk": {
+      "background-position": "-16px -132px"
+    },
+    "flag_flag_af": {
+      "background-position": "-32px 0"
+    },
+    "flag_flag_gn": {
+      "background-position": "0 -55px"
+    },
+    "flag_flag_hm": {
+      "background-position": "-160px -55px"
+    },
+    "flag_flag_bg": {
+      "background-position": "-64px -11px"
+    },
+    "flag_flag_de": {
+      "background-position": "-32px -33px"
+    },
+    "flag_flag_tz": {
+      "background-position": "-208px -143px"
+    },
+    "flag_flag_an": {
+      "background-position": "-112px 0"
+    },
+    "flag_flag_somaliland": {
+      "background-position": "-96px -132px"
+    },
+    "flag_flag_mp": {
+      "background-position": "-240px -88px"
+    },
+    "flag_flag_pf": {
+      "background-position": "-112px -110px"
+    },
+    "flag_flag_mn": {
+      "background-position": "-208px -88px"
+    },
+    "flag_flag_jo": {
+      "background-position": "-208px -66px"
+    },
+    "flag_flag_lt": {
+      "background-position": "0 -88px"
+    },
+    "flag_flag_ma": {
+      "background-position": "-64px -88px"
+    },
+    "flag_flag_ws": {
+      "background-position": "-192px -154px"
+    }
+  }
+}
